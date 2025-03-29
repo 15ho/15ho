@@ -16,4 +16,4 @@ While I prefer native Linux environments, my professional workflow relies on WSL
 
 ## More about my coding life
 
-![15ho's Github Stats](https://github-readme-stats.vercel.app/api?username=15ho&count_private=true&show_icons=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)
+![15ho's Github Stats](https://github-readme-stats.vercel.app/api?username=15ho&count_private=true&show_icons=true&bg_color=000000&text_color=D9E0EE&icon_color=B0E0E6&title_color=00FFFF)
