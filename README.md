@@ -6,7 +6,7 @@ A Back-End Developer / A Web3 Developer by day.
 
 Always HUNGRY for Programming and NEW Technology. (ing)
 
-Interesed in Layer-1 / DeFi / Quant / InfoSec / Encoding (Go/Rust/Python).
+Interesed in AI Agent / Layer-1 / DeFi / Quant / InfoSec / Encoding (Go/Rust/Python).
 
 While I prefer native Linux environments, my professional workflow relies on WSL2 with Ubuntu.
 
