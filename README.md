@@ -1,10 +1,10 @@
-### Hi there
+### 👋 Hi there
 
 ## Who am I?
 
-A Back-End Developer / A Web3 Developer by day.
+A Back-End Developer / A Web3 Developer / A Trader.
 
-Always HUNGRY for Programming and NEW Technology. (ing)
+Always HUNGRY for Programming and NEW Technology.
 
 Interesed in AI Agent / Layer-1 / DeFi / Quant / InfoSec / Encoding (Go/Rust/Python).
 
