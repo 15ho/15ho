@@ -6,13 +6,14 @@ A Back-End Developer / A Web3 Developer / A Trader.
 
 Always HUNGRY for Programming and NEW Technology.
 
-Interesed in AI Agent / Layer-1 / DeFi / Quant / InfoSec / Encoding (Go/Rust/Python).
+Interested in AI Agent / Layer-1 / DeFi / Quant / InfoSec / Encoding (Go/Rust/Python).
 
 While I prefer native Linux environments, my professional workflow relies on WSL2 with Ubuntu.
 
 ## How to reach me?
 
 [![zhihu](https://img.shields.io/static/v1?style=flat-square&logo=zhihu&label=&message=@15ho&color=eaeff9&labelColor=96CDFB)](https://www.zhihu.com/people/15ho-)
+[![15ho's blog](https://img.shields.io/badge/15ho%27s%20Blog-8A2BE2)](https://15ho.github.io)
 
 ## More about my coding life
 
