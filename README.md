@@ -2,11 +2,11 @@
 
 ## Who am I?
 
-A Back-End Developer / A Web3 Developer / A Trader.
+A Full Stack Developer / A Web3 Developer / A Trader.
 
 Always HUNGRY for Programming and NEW Technology.
 
-Interested in AI Agent / Layer-1 / DeFi / Quant / InfoSec / Encoding (Go/Rust/Python).
+Interested in AI Agent / Layer-1 / DeFi / Quant / InfoSec / Encoding (Go/Rust/Python/TypeScript).
 
 While I prefer native Linux environments, my professional workflow relies on WSL2 with Ubuntu.
 
