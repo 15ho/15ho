@@ -10,7 +10,7 @@
 
 <p>While I prefer native Linux environments, my professional workflow relies on WSL2 with Ubuntu.</p>
 
-<i>Encoding</i>
+👨‍💻<i>Encoding</i>
 
 <img alt="RustLang" src="https://img.shields.io/badge/-Rust-FFFF?style=social&logo=rust" />
 <img alt="Golang" src="https://img.shields.io/badge/-Golang-FFFF?style=social&logo=go" />
@@ -19,7 +19,7 @@
 
 ![15ho's Github Stats](https://github-readme-stats.vercel.app/api?username=15ho&count_private=true&show_icons=true&bg_color=000000&text_color=D9E0EE&icon_color=B0E0E6&title_color=00FFFF)
 
-<i>Posts</i>
+📝<i>Posts</i>
 
 [![15ho's blog](https://img.shields.io/badge/15ho%27s%20Blog-8A2BE2)](https://15ho.github.io)
 </div>
