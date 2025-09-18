@@ -2,10 +2,13 @@
 <h2> Hi there 👋</h2>
 
 
-A Back-End Developer / A Web3 Developer.
-Always HUNGRY for Programming and NEW Technology.
-Interested in AI Agent / Layer 1 Blockchains / ArchDesign / InfoSec / Encoding.
-While I prefer native Linux environments, my professional workflow relies on WSL2 with Ubuntu.
+<p>A Back-End Developer / A Web3 Developer.</p>
+
+<p>Always HUNGRY for Programming and NEW Technology.</p>
+
+<p>Interested in AI Agent / Layer 1 Blockchains / ArchDesign / InfoSec / Encoding.</p>
+
+<p>While I prefer native Linux environments, my professional workflow relies on WSL2 with Ubuntu.</p>
 
 <i>Encoding</i>
 
