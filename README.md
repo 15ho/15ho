@@ -22,4 +22,10 @@
 📝<i>Posts</i>
 
 [![15ho's blog](https://img.shields.io/badge/15ho%27s%20Blog-8A2BE2)](https://15ho.github.io)
+
+🧩<i>Personal Projects</i>
+
+- [<img height="10" width="32" src="https://cdn.simpleicons.org/typescript?viewbox=auto" />xauth](https://github.com/15ho/xauth): A Chrome extension for generating TOTP codes
+- [<img height="10" width="32" src="https://cdn.simpleicons.org/go?viewbox=auto" />wallet-utils-go](https://github.com/15ho/wallet-utils-go): Multi-chain go wallet utils library
+
 </div>
