@@ -19,10 +19,6 @@
 
 ![15ho's Github Stats](https://github-readme-stats.vercel.app/api?username=15ho&count_private=true&show_icons=true&bg_color=000000&text_color=D9E0EE&icon_color=B0E0E6&title_color=00FFFF)
 
-📝<i>Posts</i>
-
-[![15ho's blog](https://img.shields.io/badge/15ho%27s%20Blog-8A2BE2)](https://15ho.github.io)
-
 🧩<i>Personal Projects</i>
 
 - [<img height="10" width="32" src="https://cdn.simpleicons.org/typescript?viewbox=auto" />xauth](https://github.com/15ho/xauth): A Chrome extension for generating TOTP codes
